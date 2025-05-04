@@ -12,6 +12,7 @@ We will first look at the overall churn rate of the Company, its distribution ac
   <img src="images/churn_demographics.png" alt="Churn Demographics">
 </p>
 We observe that:
+
 * The overall customer churn rate is 27%, with seniors experiencing a significantly higher churn rate (38%) compared to other groups.
 * The top reasons for churn are competitor offers and poor support/service attitudes, each accounting for a large share of lost customers.
 * Churn rate increases sharply with age, especially for customers over 60, despite a lower total number of customers in that age group.
@@ -30,6 +31,7 @@ Now let's look at the effect of contract type, account length, and payment metho
   <img src="images/payment_and_contract.png" alt="Contract Type and Payment Method - II">
 </p>
 We see that:
+
 * Overall, the churn rate decreases with the account length.
 * The month-to-month contracts have a consistently high churn rate, and the churn rate decreases with the account length. 
 * The customers with a month-to-month contract have the shortest account length.
